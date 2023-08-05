@@ -31,11 +31,3 @@ Well I'm just learning new things 📚. It's a slow process but yeah 😁 I'm ge
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Xenderador&icon=4&color=12)](https://visitcount.itsvg.in)
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=Xenderador&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Xenderador&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xenderador&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
