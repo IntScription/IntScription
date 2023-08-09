@@ -16,18 +16,20 @@ Well I'm just learning new things 📚. It's a slow process but yeah 😁 I'm ge
 </a>
  <hr>![](https://github-readme-streak-stats.herokuapp.com/?user=Xenderador&theme=algolia&hide_border=false)<br/> -->
  ![](https://github-readme-stats.vercel.app/api?username=Xenderador&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
+ ####
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Xenderador&theme=algolia&hide_border=false)<br/>
+####
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xenderador&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Xenderador&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-<hr>
+###
 
 ### ✍️ Let the Devs Speak 🗣️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 The contributions begin...
-![](https://github-contributor-stats.vercel.app/api?username=Xenderador&limit=5&theme=nord&combine_all_yearly_contributions=true)
+<!---### 🔝 The contributions begin...
+![](https://github-contributor-stats.vercel.app/api?username=Xenderador&limit=5&theme=nord&combine_all_yearly_contributions=true)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Xenderador&icon=4&color=12)](https://visitcount.itsvg.in)
