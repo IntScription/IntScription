@@ -17,7 +17,7 @@ Well I'm just learning new things 📚. It's a slow process but yeah 😁 I'm ge
 <br>
   
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Xenderador&show_icons=true&theme=algolia#gh-dark-mode-only)](https://github.com/Xenderador/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Xenderador&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/Xenderador/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Xenderador&show_icons=true&theme=nightowl#gh-light-mode-only)](https://github.com/Xenderador/github-readme-stats#gh-light-mode-only)
 </details>
 
 <details close>
