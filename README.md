@@ -31,7 +31,7 @@ Well I'm just learning new things 📚. It's a slow process but yeah 😁 I'm ge
 <summary>🏆 GitHub Trophies</summary>
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=Xenderador&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Xenderador&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 </details>
 
 <br/>
