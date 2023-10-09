@@ -37,6 +37,11 @@ Well I'm just learning new things 📚. It's a slow process but yeah 😁 I'm ge
 <br/>
 
 ### ✍️ Let the Devs Speak 🗣️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)-->
+
+<div style="text-align:center;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Image" style="max-width: 100%; height: auto;">
+</div>
+
 
 ---
