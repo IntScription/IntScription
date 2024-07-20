@@ -44,5 +44,4 @@ I'm currently learning new things 📚 and working on improving my skills. It's 
 
 You can reach me through the following platforms:
 
-- LinkedIn: [Kartik Sanil](https://www.linkedin.com/in/kartik-sanil-a3528b246/)
 - Twitter: [@kartik\_sanil22](https://twitter.com/kartik_sanil22)
