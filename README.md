@@ -63,7 +63,7 @@
 ```bash
 🛠️ Dev Environment
 -------------------------------
-OS        : macOS Ventura (M2 Pro)
+OS        : macOS Tahoe (M2 Pro)
 Editor    : Neovim + Tmux
 Terminal  : Alacritty
 Shell     : Zsh (Oh My Zsh)
