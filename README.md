@@ -64,7 +64,7 @@
 🛠️ Dev Environment
 -------------------------------
 OS        : macOS Tahoe (M2 Pro)
-Editor    : Neovim + Tmux
+Editor    : Neovim(LazyVim) + Tmux
 Terminal  : Alacritty
 Shell     : Zsh (Oh My Zsh)
 Theme     : Tokyo Night 🔮
