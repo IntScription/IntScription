@@ -84,4 +84,4 @@ Font      : JetBrains Mono Nerd Font
 ## 📫 Let's Connect
 
 - 🐦 Twitter: [@kartik_sanil22](https://twitter.com/kartik_sanil22)
-- 💼 Portfolio: *Coming soon...*
+- [💼 Portfolio](https://terminal-portfolio-eight-theta.vercel.app/)
