@@ -26,69 +26,12 @@
 ## 🍿 Extras & Insights
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>📊 GitHub Metrics</summary>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/IntScription">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api?username=IntScription&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api?username=IntScription&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"
-      />
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=IntScription&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true"
-        alt="IntScription GitHub stats"
-      />
-    </picture>
-  </a>
-</div>
-
-</details>
-
-<details>
-<summary>💬 Languages</summary>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/IntScription">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IntScription&layout=compact&langs_count=12&theme=tokyonight&hide_border=true"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IntScription&layout=compact&langs_count=12&theme=buefy&hide_border=true"
-      />
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntScription&layout=compact&langs_count=12&theme=tokyonight&hide_border=true"
-        alt="Top Languages"
-      />
-    </picture>
-  </a>
-</div>
-
-</details>
-
-<details>
-<summary>🏆 GitHub Trophies</summary>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=IntScription&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8"
-      alt="GitHub Trophies"
-    />
-  </a>
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 </details>
