@@ -37,6 +37,28 @@
 </details>
 
 <details>
+<summary>💬 Most Used Languages</summary>
+
+<br />
+
+<div align="center">
+  <img src="./github-languages.svg" alt="Most Used Languages" />
+</div>
+
+</details>
+
+<details>
+<summary>🗓️ Contribution Calendar</summary>
+
+<br />
+
+<div align="center">
+  <img src="./github-calendar.svg" alt="GitHub Contribution Calendar" />
+</div>
+
+</details>
+
+<details>
 <summary>💻 Currently Using (Dev Environment)</summary>
 
 <br />
