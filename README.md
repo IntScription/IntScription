@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Kartik Sanil</h1>
+<h1 align="center">👋 Hi there, I'm Kartik Sanil</h1>
 
 <p align="center">
   💻 Dev in progress • 🎯 Lifelong learner • 🔥 Fueled by curiosity and coffee
