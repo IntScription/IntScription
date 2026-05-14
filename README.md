@@ -25,6 +25,12 @@
 
 ## 🍿 Extras & Insights
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=IntScription&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile views" />
+
+</div>
+
 <details>
 <summary>📊 GitHub Metrics</summary>
 
@@ -32,28 +38,6 @@
 
 <div align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</div>
-
-</details>
-
-<details>
-<summary>💬 Most Used Languages</summary>
-
-<br />
-
-<div align="center">
-  <img src="./github-languages.svg" alt="Most Used Languages" />
-</div>
-
-</details>
-
-<details>
-<summary>🗓️ Contribution Calendar</summary>
-
-<br />
-
-<div align="center">
-  <img src="./github-calendar.svg" alt="GitHub Contribution Calendar" />
 </div>
 
 </details>
