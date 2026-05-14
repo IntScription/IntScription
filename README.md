@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img alt="Dev Animation" width="1000" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" />
+  <img alt="Dev Animation" width="850" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" />
 </div>
 
 ---
@@ -20,16 +20,10 @@
 - 🧰 Currently hacking with Neovim, Swift, AI models & embedded tech.
 - 🛠️ Love building fast workflows, elegant UIs, and clever solutions.
 - 🐧 macOS + Linux enthusiast | Dotfiles artisan.
-
+ 
 ---
 
 ## 🍿 Extras & Insights
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=IntScription&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile views" />
-
-</div>
 
 <details>
 <summary>📊 GitHub Metrics</summary>
@@ -56,6 +50,7 @@ Terminal  : Alacritty
 Shell     : Zsh (Oh My Zsh)
 Theme     : Tokyo Night 🔮
 Font      : JetBrains Mono Nerd Font
+Workflow  : Terminal-first, keyboard-driven
 ```
 
 </details>
@@ -72,5 +67,7 @@ Font      : JetBrains Mono Nerd Font
 
 ## 📫 Let's Connect
 
-- 🐦 Twitter: [@kartik_sanil22](https://twitter.com/kartik_sanil22)
-- 💼 Portfolio: [terminal-portfolio-eight-theta.vercel.app](https://terminal-portfolio-eight-theta.vercel.app/)
+<div align="center">
+<a href="https://terminal-portfolio-eight-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://twitter.com/kartik_sanil22"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-06B6D4?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" /></a>
+</div>
